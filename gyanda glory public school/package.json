@@ -1,0 +1,13 @@
+{
+  "name": "gyanda-glory-public-school",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Gyanda Glory Public School - Premier Educational Academy & Student Portal with Real-Time Admin Theme, Logo, and Branding Customizer",
+  "scripts": {
+    "start": "node serve.js",
+    "serve": "node serve.js"
+  },
+  "devDependencies": {
+    "http-server": "^14.1.1"
+  }
+}
